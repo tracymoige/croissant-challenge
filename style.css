@@ -1,0 +1,27 @@
+body {
+  background-color: #f8e9a7;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+  margin: 0 10px;
+}
+
+a:visited {
+  color: green;
+}
