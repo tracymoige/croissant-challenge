@@ -25,3 +25,10 @@ a {
 a:visited {
   color: green;
 }
+
+img {
+  width: 500px;
+  display: block;
+  border-radius: 10px;
+  margin: 30px auto;
+}
